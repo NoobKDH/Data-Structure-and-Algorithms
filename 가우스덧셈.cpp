@@ -2,7 +2,7 @@
 
 int main(void) {
 	int n, sum;
-	printf("nÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("nì„ ì…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%d", &n);
 	
 	sum = (n*(n+1))/2;
